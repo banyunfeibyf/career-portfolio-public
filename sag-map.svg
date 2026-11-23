@@ -1,0 +1,247 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1060" viewBox="0 0 1200 1060" role="img" aria-labelledby="title desc">
+<title id="title">搜广推产品全景与个人经验覆盖</title>
+<desc id="desc">先呈现用户理解与供给治理、搜索推荐广告三条完整产品链路、跨链路调控、数据模型实验及运营平台，再用子功能标签区分直接产品经验、跨团队协作与暂无直接经历。没有公司名，未覆盖的业务模块仍完整保留；高亮不代表模型研发或全部上线。</desc>
+<rect width="1200" height="1060" fill="#f5f3ec"/>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7" fill="#b9c0b4"/></marker></defs>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif">
+<text x="40" y="34" font-size="22" fill="#242a26" font-weight="650" text-anchor="start">搜 · 广 · 推</text>
+<text x="203" y="34" font-size="13" fill="#727a70" font-weight="400" text-anchor="start">完整产品地图 · 子功能经验覆盖</text>
+<rect x="654" y="21" width="14" height="14" rx="3" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="676" y="32" font-size="12" fill="#727a70" font-weight="400" text-anchor="start">直接产品经验</text>
+<rect x="821" y="21" width="14" height="14" rx="3" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="843" y="32" font-size="12" fill="#727a70" font-weight="400" text-anchor="start">跨团队协作</text>
+<rect x="988" y="21" width="14" height="14" rx="3" fill="#dedfd6" stroke="none" stroke-width="1.3"/>
+<text x="1010" y="32" font-size="12" fill="#727a70" font-weight="400" text-anchor="start">暂无直接经历</text>
+<rect x="40" y="66" width="545" height="101" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="60" y="93" font-size="17" fill="#242a26" font-weight="600" text-anchor="start">用户理解</text>
+<text x="60" y="118" font-size="12" fill="#727a70" font-weight="400" text-anchor="start">用户画像 · 行为与意图 · 场景上下文</text>
+<text x="60" y="141" font-size="12" fill="#727a70" font-weight="400" text-anchor="start">长期偏好 · 实时状态 · 人群分层</text>
+<rect x="407" y="125" width="158" height="22" rx="5" fill="#dedfd6" stroke="none" stroke-width="1.3"/>
+<text x="486.0" y="140" font-size="11.5" fill="#727a70" font-weight="500" text-anchor="middle">暂不列为直接经历</text>
+<rect x="610" y="66" width="550" height="101" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="630" y="93" font-size="17" fill="#242a26" font-weight="600" text-anchor="start">供给接入与治理</text>
+<text x="630" y="118" font-size="12" fill="#727a70" font-weight="400" text-anchor="start">内容 / 商品 / 广告 / 服务接入</text>
+<text x="630" y="141" font-size="12" fill="#727a70" font-weight="400" text-anchor="start">准入审核 · 质量治理 · 供给生命周期</text>
+<rect x="982" y="125" width="158" height="22" rx="5" fill="#dedfd6" stroke="none" stroke-width="1.3"/>
+<text x="1061.0" y="140" font-size="11.5" fill="#727a70" font-weight="500" text-anchor="middle">暂不列为直接经历</text>
+<path d="M310 167V181H103V565" fill="none" stroke="#b9c0b4" stroke-width="1.4"/>
+<path d="M885 167V181H103" fill="none" stroke="#b9c0b4" stroke-width="1.4"/>
+<text x="106" y="193" font-size="10.5" fill="#727a70" font-weight="400" text-anchor="start">共用输入</text>
+<text x="40" y="255" font-size="19" fill="#242a26" font-weight="650" text-anchor="start">搜索</text>
+<text x="40" y="276" font-size="9.5" fill="#727a70" font-weight="500" text-anchor="start">SEARCH</text>
+<path d="M103 267H122" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="128" y="201" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="208.0" y="226" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">Query 处理</text>
+<text x="208.0" y="248" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">分词 / 纠错 / 意图识别</text>
+<text x="208.0" y="266" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">改写 / 同义表达扩展</text>
+<rect x="137" y="281" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="208.0" y="296" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">Query 处理与词泛化</text>
+<path d="M288 267H297" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="302" y="201" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="382.0" y="226" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">候选召回</text>
+<text x="382.0" y="248" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">词项 / 向量 / 多路检索</text>
+<text x="382.0" y="266" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">候选合并 / 去重</text>
+<rect x="311" y="281" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="382.0" y="296" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">泛化 / 多次召回</text>
+<path d="M462 267H471" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="476" y="201" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="556.0" y="226" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">粗排</text>
+<text x="556.0" y="248" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">轻量相关性筛选</text>
+<text x="556.0" y="266" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">候选缩减 / 延迟约束</text>
+<rect x="485" y="281" width="142" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="556.0" y="296" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">入口供给保透出</text>
+<path d="M636 267H645" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="650" y="201" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="730.0" y="226" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">精排</text>
+<text x="730.0" y="248" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">相关性 / 价值打分</text>
+<text x="730.0" y="266" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">多目标模型与特征</text>
+<rect x="659" y="281" width="142" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="730.0" y="296" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">入口保透出协作</text>
+<path d="M810 267H819" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="824" y="201" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="904.0" y="226" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">重排</text>
+<text x="904.0" y="248" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">多样性 / 规则 / 分配</text>
+<text x="904.0" y="266" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">约束融合 / 最终队列</text>
+<rect x="833" y="281" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="904.0" y="296" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">搜索重排与入口调控</text>
+<path d="M984 267H993" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="998" y="201" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="1078.0" y="226" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">结果展现与交互</text>
+<text x="1078.0" y="248" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">列表 / 摘要 / 导航结果</text>
+<text x="1078.0" y="266" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">交互 / 反馈 / 可用性</text>
+<rect x="1007" y="294" width="142" height="22" rx="5" fill="#dedfd6" stroke="none" stroke-width="1.3"/>
+<text x="1078.0" y="309" font-size="11.5" fill="#727a70" font-weight="500" text-anchor="middle">暂无直接经历</text>
+<path d="M1158 267H1177" fill="none" stroke="#b9c0b4" stroke-width="1.4"/>
+<text x="40" y="403" font-size="19" fill="#242a26" font-weight="650" text-anchor="start">推荐</text>
+<text x="40" y="424" font-size="9.5" fill="#727a70" font-weight="500" text-anchor="start">RECOMMEND</text>
+<path d="M103 415H122" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="128" y="349" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="208.0" y="374" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">兴趣与场景</text>
+<text x="208.0" y="396" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">长期偏好 / 实时行为</text>
+<text x="208.0" y="414" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">时机 / 场景 / 用户状态</text>
+<rect x="137" y="429" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="208.0" y="444" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">支付后择机展示</text>
+<path d="M288 415H297" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="302" y="349" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="382.0" y="374" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">多路召回</text>
+<text x="382.0" y="396" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">行为 / 内容 / 向量召回</text>
+<text x="382.0" y="414" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">候选合并 / 冷启供给</text>
+<rect x="311" y="429" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="382.0" y="444" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">账单供给召回</text>
+<rect x="311" y="455" width="142" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="382.0" y="470" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">冷启召回联动</text>
+<path d="M462 415H471" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="476" y="349" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="556.0" y="374" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">粗排</text>
+<text x="556.0" y="396" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">轻量打分 / 候选筛选</text>
+<text x="556.0" y="414" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">算力与覆盖率平衡</text>
+<rect x="485" y="429" width="142" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="556.0" y="444" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">冷启供给保透出</text>
+<path d="M636 415H645" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="650" y="349" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="730.0" y="374" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">精排与价值预估</text>
+<text x="730.0" y="396" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">点击 / 转化 / 价值预估</text>
+<text x="730.0" y="414" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">多目标融合 / 偏差校准</text>
+<rect x="659" y="429" width="142" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="730.0" y="444" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">评分策略协作</text>
+<rect x="659" y="455" width="142" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="730.0" y="470" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">冷启供给保透出</text>
+<path d="M810 415H819" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="824" y="349" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="904.0" y="374" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">重排与混排</text>
+<text x="904.0" y="396" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">跨类型价值比较</text>
+<text x="904.0" y="414" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">多样性 / 去重 / 约束</text>
+<rect x="833" y="429" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="904.0" y="444" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">价值归一与混排</text>
+<rect x="833" y="455" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="904.0" y="470" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">供给调权</text>
+<path d="M984 415H993" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="998" y="349" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="1078.0" y="374" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">展现与交互</text>
+<text x="1078.0" y="396" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">内容形态 / 卡片 / 布局</text>
+<text x="1078.0" y="414" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">交互反馈 / 承接体验</text>
+<rect x="1007" y="429" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="1078.0" y="444" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">支付后展示实验</text>
+<path d="M1158 415H1177" fill="none" stroke="#b9c0b4" stroke-width="1.4"/>
+<text x="40" y="551" font-size="19" fill="#242a26" font-weight="650" text-anchor="start">广告</text>
+<text x="40" y="572" font-size="9.5" fill="#727a70" font-weight="500" text-anchor="start">ADS</text>
+<path d="M103 563H122" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="128" y="497" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="208.0" y="522" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">计划 / 创意 / 定向</text>
+<text x="208.0" y="544" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">投放目标 / 人群 / 素材</text>
+<text x="208.0" y="562" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">素材审核 / 生命周期</text>
+<rect x="137" y="577" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="208.0" y="592" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">多创意寻优</text>
+<path d="M288 563H297" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="302" y="497" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="382.0" y="522" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">广告召回</text>
+<text x="382.0" y="544" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">定向匹配 / 候选准入</text>
+<text x="382.0" y="562" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">广告检索 / 供给过滤</text>
+<rect x="311" y="577" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="382.0" y="592" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">词泛化与多次召回</text>
+<path d="M462 563H471" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="476" y="497" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="556.0" y="522" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">预估与排序</text>
+<text x="556.0" y="544" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">点击 / 转化 / 价值预估</text>
+<text x="556.0" y="562" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">质量校准 / 排序打分</text>
+<rect x="485" y="577" width="142" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="556.0" y="592" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">CVR 纠偏与评分协作</text>
+<path d="M636 563H645" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="650" y="497" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="730.0" y="522" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">预算 / 出价 / 竞价</text>
+<text x="730.0" y="544" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">预算分配 / 自动出价</text>
+<text x="730.0" y="562" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">竞价机制 / 价格计算</text>
+<rect x="659" y="577" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="730.0" y="592" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">预算竞价扩展</text>
+<rect x="659" y="603" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="730.0" y="618" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">出价优化</text>
+<path d="M810 563H819" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="824" y="497" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="904.0" y="522" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">广告混排</text>
+<text x="904.0" y="544" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">广告与自然供给竞争</text>
+<text x="904.0" y="562" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">收益 / 体验 / 约束平衡</text>
+<rect x="833" y="577" width="142" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="904.0" y="592" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">流量分配与价值混排</text>
+<path d="M984 563H993" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="998" y="497" width="160" height="132" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="1078.0" y="522" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">计量 / 归因 / 结算</text>
+<text x="1078.0" y="544" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">展现计量 / 转化归因</text>
+<text x="1078.0" y="562" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">计费 / 对账 / 反作弊</text>
+<rect x="1007" y="577" width="142" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="1078.0" y="592" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">计费链路协作</text>
+<path d="M1158 563H1177" fill="none" stroke="#b9c0b4" stroke-width="1.4"/>
+<text x="40" y="696" font-size="15" fill="#242a26" font-weight="600" text-anchor="start">跨链路</text>
+<text x="40" y="717" font-size="15" fill="#242a26" font-weight="600" text-anchor="start">调控</text>
+<rect x="128" y="670" width="244" height="138" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="250.0" y="695" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">冷启动与探索</text>
+<text x="250.0" y="717" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">新供给探索 / 人群冷启</text>
+<text x="250.0" y="735" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">反馈续停 / 探索与利用</text>
+<rect x="137" y="750" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="250.0" y="765" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">分阶段目标、保量与反馈</text>
+<rect x="137" y="776" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="250.0" y="791" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">MAB 额度分配 · 方案</text>
+<rect x="390" y="670" width="244" height="138" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="512.0" y="695" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">流量预估与履约</text>
+<text x="512.0" y="717" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">库存预估 / 承接能力</text>
+<text x="512.0" y="735" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">自然分发 / 补量 / 缺口</text>
+<rect x="399" y="750" width="226" height="22" rx="5" fill="#f5f3ec" stroke="#396144" stroke-width="1.3"/>
+<text x="512.0" y="765" font-size="11.5" fill="#396144" font-weight="500" text-anchor="middle">商单流量预估</text>
+<rect x="399" y="776" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="512.0" y="791" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">自然分发与商业补量</text>
+<rect x="652" y="670" width="244" height="138" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="774.0" y="695" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">流量与预算调控</text>
+<text x="774.0" y="717" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">平滑度 / 精准度 / 效率</text>
+<text x="774.0" y="735" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">流量 / 金额 / 时间约束</text>
+<rect x="661" y="750" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="774.0" y="765" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">保量与金额控量</text>
+<rect x="661" y="776" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="774.0" y="791" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">分时调控与降级策略</text>
+<rect x="914" y="670" width="244" height="138" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="1036.0" y="695" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">频控与用户体验</text>
+<text x="1036.0" y="717" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">全局 / 场景 / 供给频次</text>
+<text x="1036.0" y="735" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">去重 / 疲劳 / 负反馈</text>
+<rect x="923" y="750" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="1036.0" y="765" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">全局频控</text>
+<rect x="923" y="776" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="1036.0" y="791" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">人群分层控制</text>
+<path d="M250 670V650H904V635" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M774 670V650" fill="none" stroke="#b9c0b4" stroke-width="1.4"/>
+<path d="M1036 670V650H904" fill="none" stroke="#b9c0b4" stroke-width="1.4"/>
+<text x="40" y="876" font-size="15" fill="#242a26" font-weight="600" text-anchor="start">平台</text>
+<text x="40" y="897" font-size="15" fill="#242a26" font-weight="600" text-anchor="start">与数据</text>
+<rect x="128" y="846" width="244" height="136" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="250.0" y="871" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">运营与接入平台</text>
+<text x="250.0" y="893" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">准入 / 目标 / 任务配置</text>
+<text x="250.0" y="911" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">权限 / 版本 / 接入验收</text>
+<rect x="137" y="926" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="250.0" y="941" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">供给、目标与任务解耦</text>
+<rect x="137" y="952" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="250.0" y="967" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">流量中控标准接入</text>
+<rect x="390" y="846" width="244" height="136" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="512.0" y="871" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">数据与实时反馈</text>
+<text x="512.0" y="893" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">埋点 / 口径 / 实时感知</text>
+<text x="512.0" y="911" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">缓存 / 日志 / 监控诊断</text>
+<rect x="399" y="926" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="512.0" y="941" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">曝光点击反馈</text>
+<rect x="399" y="952" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="512.0" y="967" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">缓存口径与链路诊断</text>
+<rect x="652" y="846" width="244" height="136" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="774.0" y="871" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">实验与策略决策</text>
+<text x="774.0" y="893" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">分流 / 灰度 / 指标归因</text>
+<text x="774.0" y="911" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">全局收益 / 约束 / 回滚</text>
+<rect x="661" y="926" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="774.0" y="941" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">实验分组流控</text>
+<rect x="661" y="952" width="226" height="22" rx="5" fill="#396144" stroke="none" stroke-width="1.3"/>
+<text x="774.0" y="967" font-size="11.5" fill="white" font-weight="500" text-anchor="middle">下钻指标与分析</text>
+<rect x="914" y="846" width="244" height="136" rx="10" fill="#e8e7df" stroke="none" stroke-width="1.3"/>
+<text x="1036.0" y="871" font-size="15" fill="#242a26" font-weight="600" text-anchor="middle">特征与模型生命周期</text>
+<text x="1036.0" y="893" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">样本 / 特征 / 训练评估</text>
+<text x="1036.0" y="911" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="middle">部署 / 在线推理 / 迭代</text>
+<rect x="923" y="939" width="226" height="22" rx="5" fill="#dedfd6" stroke="none" stroke-width="1.3"/>
+<text x="1036.0" y="954" font-size="11.5" fill="#727a70" font-weight="500" text-anchor="middle">暂无直接经历</text>
+<path d="M1177 267V827H512V840" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)"/>
+<text x="953" y="825" font-size="10.5" fill="#727a70" font-weight="400" text-anchor="middle">展现 → 反馈 → 策略迭代</text>
+<path d="M774 982V992H19V115H34" fill="none" stroke="#b9c0b4" stroke-width="1.4" marker-end="url(#arrow)" stroke-dasharray="4 4"/>
+<text x="40" y="1015" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="start">灰色模块和功能保留完整业务体系；未高亮部分暂无直接经历，不表示该模块不存在。</text>
+<text x="40" y="1037" font-size="11.5" fill="#727a70" font-weight="400" text-anchor="start">标签只标具体产品工作或协作，不代表独立研发模型或全部上线；方案、实验与上线阶段见对应项目。</text>
+</g></svg>
