@@ -1,5 +1,29 @@
 window.CAREER_PROJECTS = [
   {
+    "id": "personal-adaptive-model-router",
+    "company": "personal",
+    "category": "AI 应用",
+    "title": "自适应模型路由器",
+    "role": "个人项目 · 产品设计、AI 协作开发与评测",
+    "summary": "为重复办公任务按需选模型：轻量模型直接处理简单请求，把更强模型用在容易返工的环节。",
+    "actions": [
+      "设计逐轮分级和反馈规则，区分普通追问与明确纠错；支持按环节升档、新模型试用和回退。",
+      "在 WorkBuddy 上用 30 个相同问题对比固定低、中、高档、自适应路由和原生 Auto，盲评 150 份答案，同时记录调用耗时与 Token 用量。"
+    ],
+    "delivery": "可直接使用的答案：路由 19/30，原生 Auto 15/30，固定轻量 18/30；路由比原生 Auto 多用 24.1% Token。",
+    "stage": "可运行原型已公开，长期返工收益待验证。",
+    "modules": [],
+    "categories": [
+      "AI 应用"
+    ],
+    "links": [
+      {
+        "label": "GitHub · 实现与评测",
+        "url": "https://github.com/banyunfeibyf/adaptive-router-bench"
+      }
+    ]
+  },
+  {
     "id": "personal-investment-content-workflow",
     "company": "personal",
     "category": "AI 应用",
